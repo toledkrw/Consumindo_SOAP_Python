@@ -24,7 +24,6 @@ class Fetcher():
 
             return data
 
-
     def calcPreco(
         self,
         ncdempresa="",
